@@ -80,7 +80,7 @@ contract Ballot {
     }
 
 
-
+//main funtion to do voting
     function doVote(bool _choice)
         public
         inState(State.Voting)
