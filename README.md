@@ -5,7 +5,7 @@ This project was developed to create a voting system using blockchain concepts, 
 First the user must start the voting process.
 Next the voting process commences and votes can be cast.
 Once voting is completed the user can end voting.
-The total votes can only be viewed after the voting rocess is entirely completed.
+The total votes can only be viewed after the voting process is entirely completed.
 Output generated is the total votes and total voters.
 
 Note: The proposal descisions are decided using smart contract in this system.
